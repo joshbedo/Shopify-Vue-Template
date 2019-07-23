@@ -1,12 +1,6 @@
-/*
-	Home component shown at home
-*/
-
 <template>
 	<div>
-		<h1 class="red">Home All</h1>
 	</div>
-
 </template>
 
 
@@ -22,7 +16,5 @@
 
 
 <style>
-	.red {
-		color: #f00;
-	}
+
 </style>
