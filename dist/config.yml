@@ -1,0 +1,11 @@
+development:
+  password: 1f857f68ae80c1d3fa8d79bed1df40e6
+  theme_id: 43160731699
+  store: dev-test-boris.myshopify.com
+  ignore_files:
+
+production:
+  password: 1f857f68ae80c1d3fa8d79bed1df40e6
+  theme_id: "live"
+  store: dev-test-boris.myshopify.com
+  ignore_files:
