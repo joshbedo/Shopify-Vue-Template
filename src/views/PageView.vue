@@ -21,8 +21,4 @@
 </script>
 
 
-<style>
-	.red {
-		color: #f00;
-	}
-</style>
+

@@ -8,7 +8,7 @@
 import PageView from './views/PageView.vue'
 
 export const routes = [
-	{ path: '/products/:slug', component: ProductDetailView },
+	// { path: '/products/:slug', component: ProductDetailView },
 
 	{ path: '/pages/:slug', component: PageView },
 ]
